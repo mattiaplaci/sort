@@ -1,6 +1,6 @@
 # Multiprocess SORT
 
-This project was first developed as final assignment for the "Artificial Intelligence Laboratory" course at Sapienza University of Rome, then parallelized and extended as work for my bachelor thesis.
+This project was first developed as final assignment for the "Artificial Intelligence Laboratory" course at Sapienza University of Rome, then extended as work for my bachelor thesis.
 
 ## Overview
 
